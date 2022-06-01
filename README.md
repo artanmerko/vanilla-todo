@@ -1,3 +1,3 @@
 # vanilla-todo
 Vanilla Todo List
-[demo]()
+[demo](https://artanmerko.github.io/vanilla-todo/)
